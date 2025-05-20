@@ -1,4 +1,4 @@
--Hi, I’m @JacobBaker99
+-Hi, I’m Jacob Baker
 
 -I’m currently studying at the University of West Georgia
 
