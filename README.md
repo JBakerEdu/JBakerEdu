@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Jacob Baker</h1>
 <h3 align="center">Computer Science Student | Software Developer | DevOps Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jbakeredu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" width="150" />
-</p>
-
 ---
 
 <div align="center">
